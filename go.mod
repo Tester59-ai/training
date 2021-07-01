@@ -1,4 +1,4 @@
-module github.com/Tester59-ai/training
+module github.com/go-training/training
 
 go 1.16
 
